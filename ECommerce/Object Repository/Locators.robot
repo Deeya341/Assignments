@@ -11,3 +11,6 @@ ${ADDTOCART_BUTTON}          //button[@id='addToCart']
 ${CARTLINK}                  //div[contains(@class,'actionMenu')]//a[contains(@class,'cart')]
 ${CARTHEADER}                //div[contains(@class,'cartTotal')]
 ${CARTITEMSTITLE}            //div[contains(@class,'cartProductInner')]
+${SORT_BUTTON_VALUE}         //button[contains(@class,'sortbyButton')]/span
+${CART_COUNT}                //div[contains(@class,'mActionMenu')]//span[contains(@class,'cartCount')]
+${LOGIN_MENU}                id:loginLink
